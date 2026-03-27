@@ -1,2 +1,4 @@
-# SokratisTestRepo
-Example repository
+# **Name : SokratisTestRepo**
+## Example repository for Quantum Information and Analysis course.
+
+### Section 1 
